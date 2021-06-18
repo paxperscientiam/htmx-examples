@@ -10,3 +10,8 @@ pnpm start
 npm install
 npm start
 ```
+
+
+## Fallbacks
+
+These are examples of how you might handle a client without javascript enabled.
