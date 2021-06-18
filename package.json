@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"basscss": "^8.1.0",
+		"htmx.org": "^1.4.1"
+	},
+    "scripts": {
+        "start": "serve ."
+    },
+	"devDependencies": {
+		"serve": "^12.0.0"
+	}
+}
